@@ -1,0 +1,21 @@
+
+uiScreen.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+button_down
+  rotate: false
+  xy: 1, 1
+  size: 84, 36
+  split: 8, 8, 8, 8
+  orig: 84, 36
+  offset: 0, 0
+  index: -1
+button_up
+  rotate: false
+  xy: 87, 1
+  size: 84, 36
+  split: 8, 8, 8, 8
+  orig: 84, 36
+  offset: 0, 0
+  index: -1
